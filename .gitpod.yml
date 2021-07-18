@@ -3,4 +3,4 @@ image:
 
 ports:
   - port: 8080
-  - visibility: public
+    visibility: public
